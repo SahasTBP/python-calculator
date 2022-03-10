@@ -1,6 +1,5 @@
 import os
 import sys
-#git
 # Welcome message
 def start():
     print("Welcome to the CALCUALTOR ! ")
